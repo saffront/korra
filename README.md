@@ -6,7 +6,7 @@
 ###### (1) Download repository & open it
 ```
 $ git clone https://github.com/saffront/korra
-$ cd virtual-reality-tour
+$ cd korra
 ```
 
 ###### (2) Install node modules
